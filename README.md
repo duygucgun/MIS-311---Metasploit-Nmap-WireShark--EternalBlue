@@ -6,8 +6,8 @@ The project we created for the Information Security Systems Design and Applicati
 
 The group (Cyberk Teams 18) members;
 
-Ayberk Ünveren
+Ayberk Ünveren - 17030411044
 
-Sinan Olcaytürkan
+Sinan Olcaytürkan - 16030411049
 
-Duygu Uçgun 
+Duygu Uçgun - 16030411038
